@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+ <qresource prefix="/resources">
+    <file alias="help.png">./resources/help.png</file>
+    <file alias="style.qss">./resources/style.qss</file>
+    <file alias="ico.ico">./resources/ico.ico</file>
+    <file alias="bg.png">./resources/bg.png</file>
+    <file alias="start_enter.png">./resources/start_enter.png</file>
+    <file alias="start_leave.png">./resources/start_leave.png</file>
+  </qresource>
+</RCC>

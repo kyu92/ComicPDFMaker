@@ -1,0 +1,44 @@
+#files_list{
+    background: transparent;
+    border-radius: 5px;
+    border: 1.5px solid rgba(255, 63, 72, 0.8);
+    color: red;
+}
+
+#log_box{
+    background: transparent;
+    border-radius: 5px;
+    border: 1.5px solid rgba(255, 63, 72, 0.8);
+}
+
+#select_files_btn {
+    border: 3px solid rgba(255, 141, 36, 0.8);
+    border-radius: 23px;
+    color: red;
+    background: transparent;
+    height: 3em;
+    text-align: center;
+    width: 10em;
+    padding:2px 4px;
+}
+
+#select_files_btn:hover {
+    color: black;
+    border: 3px solid rgba(0, 0, 0, 0.8);
+    font-weight: bold;
+}
+
+#widget_title_files_list{
+    color: red;
+    font-weight: bold;
+}
+
+#widget_title_log{
+    color: red;
+    font-weight: bold;
+}
+
+#help_window{
+    border-image: url("HelpWindowBody.png");
+    /*background: transparent;*/
+}
